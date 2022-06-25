@@ -1,6 +1,3 @@
-# 014-C110-SamplingDistribution
-# This is a python script made by @somePythonProgrammer
-# for a WhiteHat Junior project.
 
 import pandas as pd
 import random
